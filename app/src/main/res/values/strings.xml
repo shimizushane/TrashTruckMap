@@ -1,0 +1,10 @@
+<resources>
+  <string name="app_name">TrashTruckMap</string>
+  <string name="title_activity_maps">Map</string>
+  <string name="title">Title</string>
+  <string name="snippet">Snippet</string>
+  <string name="sna">Station Name</string>
+  <string name="tot">Total</string>
+  <string name="sbi">Space Bike</string>
+  <string name="bemp">Bike Empty</string>
+</resources>
